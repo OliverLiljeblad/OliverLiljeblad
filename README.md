@@ -1,8 +1,8 @@
 # 👋 Hey, I’m Oliver Liljeblad  
 
-💻 **Computer Science & Mathematics Co-Major**  
-📊 **Data Analytics Minor**  
-🇸🇪 From Sweden — currently studying in the U.S.  
+💻 **Computer Science & Mathematics Major**  
+📊 **Data Analytics Minor**
+🇸🇪 From Sweden — currently studying in the U.S.
 
 ---
 
@@ -25,7 +25,7 @@ Also: clean code > clever code 😄
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&logoColor=white)
 
-🧩 *Learning next:*  
+🧩 *Learning:*  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
