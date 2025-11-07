@@ -1,7 +1,6 @@
 # 👋 Hey, I’m Oliver Liljeblad  
 
-💻 **Computer Science & Mathematics Major**  
-📊 **Data Analytics Minor**
+💻 **Computer Science & Mathematics Major**  📊 **Data Analytics Minor**  
 🇸🇪 From Sweden — currently studying in the U.S.
 
 ---
