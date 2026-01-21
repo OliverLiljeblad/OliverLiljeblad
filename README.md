@@ -33,16 +33,15 @@ Also: clean code > clever code 😄
 ### 🚀 What I’m Into  
 - 🤖 Machine Learning & AI  
 - 📈 Finance, Investing, and Quantitative Analysis  
-- 🧮 Data Analytics & Automation  
-- 💡 Working on new project and startup ideas  
+- 🧮 Data Analytics & Automation
+- 💡 Working on a new project and startup idea 
 
 ---
 
 ### 🎯 Current Goals  
 - Learn more about **ML models** and **data-driven decision making**  
-- Build a few solid **portfolio projects**  
+- Build a few solid **portfolio projects** 
 - Explore **quant & financial tech**  
-- Keep improving every day (and maybe drink less coffee ☕)
 
 ---
 
